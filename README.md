@@ -4,7 +4,7 @@
 
 ## How to Ask?
 
-Just [submit](https://github.com/RayhanADev/ama/issues) an issue with the title as your question and anything extra in the description!
+Just [submit](https://github.com/RayhanADev/ama/issues) an issue with the title as your question and anything extra in the description! Add labels as needed :)
 
 ---
 
@@ -15,6 +15,11 @@ Just [submit](https://github.com/RayhanADev/ama/issues) an issue with the title 
 4. Coding History
 5. Future Plans
 6. or something awesomely unique!
+
+---
+
+## What I Do After Your Answer?
+Respond if you want and the close the issue! It helps to archive all the questions and keep active questions clean.
 
 ---
 
