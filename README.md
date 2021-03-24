@@ -4,7 +4,7 @@
 
 ## How to Ask?
 
-Just [submit](https://github.com/RayhanADev/ama/issues) an issue with the title as your question and anything extra in the description! Add labels as needed :)
+Just [submit](https://github.com/RayhanADev/ama/issues) using the AMA template! Add labels as needed :)
 
 ---
 
