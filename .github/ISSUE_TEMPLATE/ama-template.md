@@ -13,12 +13,12 @@ Remember, don't ask me anything awkwardly personal (address, phone number, etc.)
 and also, have fun!
 -->
 
-**Question**: 
+**Question**: <!-- Replace with your question -->
 
 ---
 
 <!-- Optional Items -->
 **Topics/Tags** (for archiving purposes):
-#
-#
-#
+\#<!-- Replace with your tag -->
+\#<!-- Replace with your tag -->
+\#<!-- Replace with your tag -->
