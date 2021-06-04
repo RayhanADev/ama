@@ -1,2 +1,3 @@
-print("It's RayhanADev's Ask Me Anything")
-print("Ask Them Anything!")
+print("It's RayhanADev's Ask Me About")
+
+print('About what? About anything!')
